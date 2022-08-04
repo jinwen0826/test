@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# @Date    : 2018-10-26
-# @Author  : Peng Shiyu
-
 from flask import (
     Flask,
     render_template,
